@@ -1,5 +1,6 @@
 package model;
 
+
 public class Customer {
 
     private String firstname;
